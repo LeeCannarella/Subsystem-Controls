@@ -1,0 +1,25 @@
+# Arduino IDE & PlatformIO build artifacts
+build/
+bin/
+out/
+.pio/
+.pioenvs/
+.piolibdeps/
+.clangd/
+compile_commands.json
+
+# VS Code project settings (optional to ignore, but good for portability)
+.vscode/ipch/
+.vscode/.browse.vc.db
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
+# Temporary / OS files
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
